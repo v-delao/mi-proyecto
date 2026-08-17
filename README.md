@@ -1,5 +1,5 @@
 # mi-proyecto
-Proyecto ficticio para alumnos del Grado de Bioinformática
+Proyecto ficticio para alumnos del Máster de Bioinformática
 
 ## Prueba 2 de actualizacion de documentos
 Este es un cambio en una nueva rama
